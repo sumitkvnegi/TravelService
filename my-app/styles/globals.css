@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#fefefe] text-[#000000] scrollbar-hide;
+  }
+}
+
+/* @layer base {
+  body {
+    @apply bg-[#C8C3C5] text-[#C8C3C5] tracking-wide scrollbar-hide font-['Sans_Mono'];
+  }
+ */
+
+.color{
+  /* FaceBook */
+  color: #29487d;
+  color: #3c5898;
+  color: #9cb2ce;
+  color: #fefefe;
+  color: #d4d8e8;
+  /* Google */
+  color: #4285f4;
+  color: #34a853;
+  color: #fbbc05;
+  color: #ea4335;
+  /* Apple */
+  color: #000000;
+  color: #666666;
+  color: #979797;
+  color: #eeeeee;
+  color: #0088cc;
+}
+
+
+
+
+
+
+
+
